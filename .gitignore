@@ -27,7 +27,6 @@ yarn-error.log*
 example/.eslintcache
 example/.cache
 
-examples/**/package-lock.json
 .next
 
 # cli tool
